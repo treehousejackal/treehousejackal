@@ -1,0 +1,4 @@
+- 🦊 Hi, I’m @treehousejackal
+- 🚂 I’m interested in railroad history and making stuff
+- 🌱 I’m currently learning C++ for programming video games and robots
+- 📫 How to reach me: treehousejackal@gmail.com or Cammy#4444 on Discord
